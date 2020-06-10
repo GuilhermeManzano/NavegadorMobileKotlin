@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navegador Mobile</string>
+    <string name="url_hint">Digite o Endereço da Web</string>
+    <string name="dialog_text">Página Inicial Url (http:// ou https://)</string>
+    <string name="dialog_option_start">Carregar a última página aberta ao iniciar</string>
+    <string name="menu_go">Navegador Url</string>
+    <string name="menu_refresh">Atualizar Página</string>
+    <string name="menu_home">Abrir Página Inicial</string>
+    <string name="menu_settings">Abrir Opções</string>
+
+    <string name="no_click">Nenhum item foi clicado</string>
+    <string name="no_url">Digite o Endereço do Web Site.</string>
+    <string name="btn_save">Salvar</string>
+    <string name="btb_cancel">Cancelar</string>
+</resources>

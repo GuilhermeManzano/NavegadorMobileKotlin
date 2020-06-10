@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/actionGo"
+        android:icon="@drawable/go"
+        android:title="@string/menu_go"
+        app:showAsAction="always">
+    </item>
+
+<!--    O tipo showasaction tem as opçoes de always para sempre exibir o item no menu e de-->
+<!--    ifRoom para exibir apenas se houver espaço disponivel-->
+    <item
+        android:id="@+id/actionRefresh"
+        android:icon="@drawable/atualizar"
+        android:title="@string/menu_refresh"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/actionHome"
+        android:icon="@drawable/home"
+        android:title="@string/menu_home"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/actionSettings"
+        android:icon="@drawable/config"
+        android:title="@string/menu_settings"
+        app:showAsAction="ifRoom">
+    </item>
+
+</menu>
